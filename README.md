@@ -1,29 +1,17 @@
 # Saumitra Mishra
 
-### SAP Data & Analytics · SAP Datasphere · Business Data Cloud
+### SAP Data & Analytics · SAP Datasphere & BDC · SAP Data Architect
 
-I help organizations modernize SAP data platforms and turn business data into useful analytics. Based in Bengaluru, I bring 9+ years of experience across SAP BW/BW/4HANA modernization, SAP Datasphere, SAP Analytics Cloud, and architecture work for SAP Business Data Cloud.
+I help organizations modernize SAP data platforms and turn business data into useful analytics. Based in Bengaluru, my work spans SAP BW/BW/4HANA modernization, SAP Datasphere, SAP Analytics Cloud, and architecture work for SAP Business Data Cloud.
 
 [Portfolio](https://mishra-saumitra.github.io/) · [LinkedIn](https://www.linkedin.com/in/saumitra-mishra/) · [Credly](https://www.credly.com/users/saumitramishra)
 
 ## What I work on
 
-- **Data platform modernization:** SAP BW and BW/4HANA transformation, legacy-object remediation, and data-flow performance.
+- **Data platform modernization:** BW/4HANA conversion and BW modernization, connecting the existing landscape with Datasphere and Business Data Cloud through an Optimize, Modernize, Innovate approach.
 - **Cloud data and analytics:** SAP Datasphere modeling and SAP Analytics Cloud reporting.
 - **Solution architecture:** Business Data Cloud architecture, proof-of-concept delivery, and RFP/RFI responses.
 - **Business AI:** SAP Business AI certification and continued learning at the intersection of enterprise data and AI.
-
-## Selected professional outcomes
-
-These results come from my professional experience; they are not claims about the public repositories below.
-
-| Outcome | Result |
-| --- | --- |
-| Reporting automation | 40% reduction in manual reporting |
-| Data-flow optimization | Runtime reduced from six minutes to two |
-| Modernization | Remediation of 35+ legacy objects |
-| Solution development | Four-week SAP Datasphere + SAP Analytics Cloud proof of concept |
-| Presales | Contributions to five RFP/RFI responses |
 
 ## Experience
 
@@ -55,7 +43,7 @@ From data modelling and analytics to Business Data Cloud and business AI archite
 </details>
 
 <details>
-<summary><strong>Training & records of achievement (12)</strong></summary>
+<summary><strong>Training & RECORDS OF ACHIEVEMENT (12)</strong></summary>
 
 - **[SAP Business Data Cloud: Data Architecture Deep Dive Miniseries - Record of Achievement](https://www.credly.com/badges/c2fe08c4-bf48-4685-b7e4-6dc4da44fe86)** — Expanded my understanding of BDC integration, BW and HANA modernization, open ecosystem connectivity and end-to-end data architecture practices.
 - **[Autonomous Enterprise and SAP Business AI Platform Essentials - Record of Achievement](https://www.credly.com/badges/5db9a98a-6fb4-49fa-99ff-15517b0d7717)** — Connected SAP’s Autonomous Enterprise vision with Joule Studio, Integration Suite, Business Data Cloud and AI governance.
